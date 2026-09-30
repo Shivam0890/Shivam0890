@@ -19,7 +19,7 @@
 
 ## Current Focus
 
+- 🚀  Full-stack development with React/Vue , Python
 - 🤖 Learning AI Agents
 - 🔧 Building MCP Servers
-- 📚 Exploring LangGraph
-- 🚀 Learning Data Science
+- 📚 Learning LLMs
